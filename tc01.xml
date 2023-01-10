@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Customer>
+    <State>
+        <value>Andhra</value>
+        <City>
+            <value>amravati</value>
+        </City>
+    </State>
+</Customer>
